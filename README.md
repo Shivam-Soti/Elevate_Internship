@@ -1,3 +1,2 @@
-# Elevate_Internship
-<br>
-In this data set, I have dropped empty columns and empty values. Along with this, I have converted the data type of date_added and release_year to date format.
+DartaSet Name : Netflix movie dataset from 2010 to 2025 <br> Author : Shivam Soti <br>
+In this data set, I have removed the empty columns and replaced the empty values ​​of 'director', 'cast', 'country' columns with "Unknown" and also replaced the empty values ​​of 'genres' , 'description' with "genre not available", "description not available". Also, I have changed the data type of 'date_added' to date format.
