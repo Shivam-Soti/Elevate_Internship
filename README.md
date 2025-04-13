@@ -9,7 +9,3 @@ The first sheet of this Power BI report gives an overall overview of Superstore 
 <b>Task-3</b> <br>
 <b>DartaSet Name</b> : northwind <br> <b>Author</b> : Shivam Soti <br>
 I have used SELECT, WHERE, ORDER BY, GROUP BY, JOINS (INNER, LEFT, RIGHT) Courier in SQL.
-
-<b>Task-4</b> <br>
-<b>DartaSet Name</b> : Dimcity, DimCustomer, DimDate, DimEmployee, DimStockItem, FactSale <br> <b>Author</b> : Shivam Soti <br>
-Created a Power BI report with an interactive dashboard.
