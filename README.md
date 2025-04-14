@@ -13,3 +13,7 @@ I have used SELECT, WHERE, ORDER BY, GROUP BY, JOINS (INNER, LEFT, RIGHT) Courie
 <b>Task-4</b> <br>
 <b>DartaSet Name</b> : Dimcity, DimCustomer, DimDate, DimEmployee, DimStockItem, FactSale <br> <b>Author</b> : Shivam Soti <br>
 Created a Power BI report with an interactive dashboard.
+
+<b>Task-5</b> <br>
+<b>DartaSet Name</b> : Titanic Dataset <br> <b>Author</b> : Shivam Soti <br>
+I have applied function on pandas using <B>Titanic Dataset</b>.
