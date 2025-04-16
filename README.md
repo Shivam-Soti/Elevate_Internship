@@ -17,3 +17,12 @@ Created a Power BI report with an interactive dashboard.
 <b>Task-5</b> <br>
 <b>DartaSet Name</b> : Titanic Dataset <br> <b>Author</b> : Shivam Soti <br>
 I have applied function on pandas using <B>Titanic Dataset</b>.
+
+<b>Task-6</b> <br>
+<b>DartaSet Name</b> : Sale_data <br> <b>Author</b> : Shivam Soti <br>
+I have implemented these functions using sale data set.
+GROUP BY year/month.
+Use SUM() for revenue.
+COUNT(DISTINCT order_id) for volume.
+Use ORDER BY for sorting.
+Limit results for specific time periods.
